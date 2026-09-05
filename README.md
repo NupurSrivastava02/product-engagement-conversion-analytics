@@ -103,7 +103,7 @@ The resulting overall conversion rate was **1.90%**.
 
 ### Funnel Insights
 
-The largest behavioral drop occurs between sessions and product views, while users who reach checkout have substantially higher purchase intent.
+The largest absolute user drop occurs between sessions and product views, while the lowest stage conversion rate occurs between product views and add-to-cart.
 
 The checkout-to-purchase rate was approximately **43.1%**, suggesting that users reaching checkout represent a particularly valuable population for targeted product interventions.
 
